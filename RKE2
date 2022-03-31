@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T04:39:11.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="p84yV2myY0LAGIyRqUg-" version="17.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-31T04:58:58.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="a6wEexFew8T7aHPGc8Vh" version="17.3.0" type="github" pages="2">
   <diagram id="O8O3ftZOsrLFWNzpddwy" name="Page-1">
     <mxGraphModel dx="2119" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,8 +116,8 @@
         <mxCell id="8YZw7IuWP8TGd9cfMLXC-39" value="Management Plane" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-624.8399999999999" y="-351.67" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8YZw7IuWP8TGd9cfMLXC-44" value="Powerx" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-593.33" y="-390.59000000000003" width="60" height="20" as="geometry" />
+        <mxCell id="8YZw7IuWP8TGd9cfMLXC-44" value="Powerx Control Plane" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-628.33" y="-390.59000000000003" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8YZw7IuWP8TGd9cfMLXC-45" value="MS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-271" y="-626.67" width="31.5" height="35" as="geometry" />

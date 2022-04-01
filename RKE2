@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T08:09:08.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="xKpE0gpdE6KlrwCjN70L" version="17.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-01T03:09:30.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="XGH7zPJSfqze2544IgtC" version="17.3.0" type="github" pages="2">
   <diagram id="O8O3ftZOsrLFWNzpddwy" name="Page-1">
-    <mxGraphModel dx="2181" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1775" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8YZw7IuWP8TGd9cfMLXC-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-318" y="-709.67" width="250" height="388" as="geometry" />
-        </mxCell>
-        <mxCell id="8YZw7IuWP8TGd9cfMLXC-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;dashed=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-758" y="-710" width="388.33" height="388.33" as="geometry" />
+          <mxGeometry x="-700" y="-709.67" width="632" height="388" as="geometry" />
         </mxCell>
         <mxCell id="8YZw7IuWP8TGd9cfMLXC-86" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-295.38" y="-661.67" width="195.38" height="211.67" as="geometry" />
@@ -98,11 +95,11 @@
         <mxCell id="8YZw7IuWP8TGd9cfMLXC-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-423.67" width="170" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="8YZw7IuWP8TGd9cfMLXC-31" value="VxRail Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="8YZw7IuWP8TGd9cfMLXC-31" value="Virtual VxRail Node" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-272" y="-415.67" width="170" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="8YZw7IuWP8TGd9cfMLXC-33" value="VxRail Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-248" y="-351.67" width="90" height="20" as="geometry" />
+        <mxCell id="8YZw7IuWP8TGd9cfMLXC-33" value="&lt;b&gt;Virtual VxRail&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-429" y="-700" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8YZw7IuWP8TGd9cfMLXC-36" value="VXM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-215.38" y="-466.75" width="40" height="20" as="geometry" />
@@ -112,9 +109,6 @@
         </mxCell>
         <mxCell id="8YZw7IuWP8TGd9cfMLXC-38" value="RKE2 Worker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-269.5" y="-530.0000000000001" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8YZw7IuWP8TGd9cfMLXC-39" value="Management Plane" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-624.8399999999999" y="-351.67" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8YZw7IuWP8TGd9cfMLXC-44" value="Powerx Control Plane" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-628.33" y="-390.59000000000003" width="130" height="20" as="geometry" />
@@ -198,7 +192,7 @@
         </mxCell>
         <mxCell id="8YZw7IuWP8TGd9cfMLXC-90" value="CLONE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF3333;" vertex="1" connectable="0" parent="8YZw7IuWP8TGd9cfMLXC-89">
           <mxGeometry x="-0.248" y="-2" relative="1" as="geometry">
-            <mxPoint x="-44" y="36" as="offset" />
+            <mxPoint x="-13" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

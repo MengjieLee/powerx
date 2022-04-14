@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T03:48:55.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Y9xEBXSdJ3eXPhYJWsII" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T03:49:09.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="YlhsrQaxRMU3psG1tf29" version="17.4.3" type="github">
   <diagram id="O8O3ftZOsrLFWNzpddwy" name="Page-1">
     <mxGraphModel dx="3326" dy="2230" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,9 +326,6 @@
         </mxCell>
         <mxCell id="yK8FAWrN4kmdgS8kwYSP-39" value="Kube-scheduler Label" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-203.67" y="1385.04" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="yK8FAWrN4kmdgS8kwYSP-40" value="Deployment Patch Task&lt;br&gt;&lt;ul&gt;&lt;li&gt;PowerX Control Plane need import micronano images too&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-689.9999999999999" y="1470" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3mjBucMvjZLbwQ1dDgob-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;dashed=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="797.84" y="1032.04" width="264.17" height="400" as="geometry" />

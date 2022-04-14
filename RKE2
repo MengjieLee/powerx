@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T04:00:01.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="MmLQRKXyqj9_CcB95T2i" version="17.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T04:00:38.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="f52j8-Md0WE7j3ttTFR7" version="17.4.3" type="github">
   <diagram id="O8O3ftZOsrLFWNzpddwy" name="Page-1">
     <mxGraphModel dx="2500" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -635,6 +635,9 @@
         </mxCell>
         <mxCell id="pPm95_knTeI1BqazM3lj-14" value="POC State" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-800" y="1080" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pPm95_knTeI1BqazM3lj-15" value="&lt;ul style=&quot;margin: 0px; list-style-type: disc; color: rgb(23, 43, 77); font-size: 14px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;span class=&quot;Y2IQFc&quot; lang=&quot;en&quot; style=&quot;font-family: , &amp;quot;blinkmacsystemfont&amp;quot; , &amp;quot;segoe ui&amp;quot; , &amp;quot;roboto&amp;quot; , &amp;quot;oxygen&amp;quot; , &amp;quot;ubuntu&amp;quot; , &amp;quot;fira sans&amp;quot; , &amp;quot;droid sans&amp;quot; , &amp;quot;helvetica neue&amp;quot; , sans-serif&quot;&gt;[WIP] Cloned VxM as Control Plane in Day0 VV(Arusha)&lt;/span&gt;&lt;ul style=&quot;margin: 0px ; list-style-type: disc&quot;&gt;&lt;li&gt;[Done] VxM join the control plane cluster as rke2-worker&lt;/li&gt;&lt;li&gt;[WIP]&lt;strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Migrate services to Control Plane and verify day1 operation features&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="1342.5" y="1840" width="630" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
